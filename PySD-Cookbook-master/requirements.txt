@@ -1,0 +1,4 @@
+pysd
+pyDOE
+scipy
+matplotlib
